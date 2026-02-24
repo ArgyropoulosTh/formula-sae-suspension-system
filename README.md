@@ -60,12 +60,9 @@ Key focus areas:
 * manufacturable geometry
 * serviceability
 
-🖼 *Add wishbone/upright renders*
 
-<p>
-  <img src="assets/images/wishbone-cad.png" width="49%"/>
-  <img src="assets/images/upright-cad.png" width="49%"/>
-</p>
+![Suspension overview](assets/images/wishbone.png)
+
 
 ---
 
