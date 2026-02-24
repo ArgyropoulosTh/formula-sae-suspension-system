@@ -40,7 +40,7 @@ My responsibilities covered concept development, detailed design, simulation, te
 
 ---
 
-## 🔧 My Contributions
+##  My Contributions
 
 * Led suspension system design from concept to validation
 * Performed detailed CAD modeling of suspension components
@@ -66,7 +66,7 @@ Key focus areas:
 
 ---
 
-## 📊 Finite Element Analysis (FEA)
+##  Finite Element Analysis (FEA)
 
 FEA was conducted to:
 
@@ -76,7 +76,7 @@ FEA was conducted to:
 
 ---
 
-## 🧪 Manufacturing & Testing
+##  Manufacturing & Testing
 
 Activities included:
 
@@ -100,7 +100,7 @@ As Suspension Chief, I:
 
 ---
 
-## 📊 Engineering Impact
+##  Engineering Impact
 
 * Delivered a complete suspension subsystem
 * Enabled manufacturable race-ready components
