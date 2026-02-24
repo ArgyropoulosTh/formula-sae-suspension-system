@@ -1,7 +1,5 @@
 # formula-sae-suspension-system
 
-# Formula SAE Suspension System — Democritus Racing Team
-
 Suspension system designed for a Formula SAE single-seat race car, focusing on performance, structural integrity, and manufacturability.
 
 **Role:** Co-Founder & Suspension System Chief
