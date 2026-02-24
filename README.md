@@ -30,15 +30,13 @@ My responsibilities covered concept development, detailed design, simulation, te
 
 ##  Suspension Architecture
 
-*(Edit to match your actual design)*
 
 * Double wishbone configuration
 * Pushrod actuation 
 * Coilover damper integration
 * Adjustable geometry for tuning
 
-🖼 *Add full suspension CAD overview*
-![Suspension overview](assets/images/suspension-overview.png)
+![Suspension overview](assets/images/Suspension.png)
 
 ---
 
@@ -78,8 +76,6 @@ FEA was conducted to:
 * verify structural safety
 * identify stress concentrations
 
-🖼 *Add stress plots*
-![FEA results](assets/images/suspension-fea.png)
 
 ---
 
@@ -91,8 +87,8 @@ Activities included:
 * mechanical testing
 * iterative design improvements
 
-🖼 *Add: manufactured parts or test setup*
-![Testing](assets/images/suspension-testing.jpg)
+
+![Testing](assets/images/drt-suspension.png)
 
 ---
 
@@ -116,15 +112,12 @@ As Suspension Chief, I:
 
 ---
 
-## 🎥 Media
+##  Media
 
 ### Quick Preview
 
-![Demo](assets/gifs/suspension-demo.gif)
+https://drt-racing.duth.gr/en/
 
-### Full Video
-
-[▶️ Watch full video](assets/videos/suspension-demo.mp4)
 
 ---
 
