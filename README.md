@@ -61,7 +61,7 @@ Key focus areas:
 * serviceability
 
 
-![Suspension overview](assets/images/wishbone.png)
+![Suspension CAD](assets/images/Wishbone.png)
 
 
 ---
