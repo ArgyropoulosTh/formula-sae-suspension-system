@@ -1,4 +1,4 @@
-# formula-sae-suspension-system
+# Sormula Sae Ssuspension Ssystem
 
 Suspension system designed for a Formula SAE single-seat race car, focusing on performance, structural integrity, and manufacturability.
 
